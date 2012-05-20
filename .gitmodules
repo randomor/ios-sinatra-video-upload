@@ -1,0 +1,3 @@
+[submodule "ios-video-upload"]
+	path = ios-video-upload
+	url = git@github.com:randomor/ios-video-upload.git
